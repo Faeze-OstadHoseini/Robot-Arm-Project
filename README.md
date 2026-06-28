@@ -76,4 +76,4 @@ The arm can be controlled manually via joysticks, making it suitable for:
 ### Upload Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Robot-Arm-Project.git
+   git clone https://github.com/Robot-Arm-Project/Robot-Arm-Project.git
